@@ -65,8 +65,7 @@ attribute:"title"
  
  
 <!---------------------------------------------------------------- IMAGES -->
- 
-<meta name="image:background" content=""/>
+ <meta name="image:icon" content=""/>
 <meta name="image:sidebar image" content=""/>
  
 <!---------------------------------------------------------------- COLORS -->
