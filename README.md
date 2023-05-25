@@ -401,23 +401,7 @@ color:{color:accent 3};
  
 /*----------------------------------------------------------------- TAGS --*/
  
- 
-.tags-container {
- 
-display:flex;
-justify-content:left;
-align-items:left;
-flex-direction:row;
--webkit-transition: all 0.7s ease-in-out;
-transition: all 0.7s ease-in-out;
--moz-transition: all 0.7s ease-in-out;
--o-transition: all 0.7s ease-in-out;
-position:relative;
- 
-}
- 
- 
-.tags a {
+
  
 background:{color:accent 1};
 color:{color:text};
